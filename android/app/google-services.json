@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "104567956388",
+    "project_id": "cso-kebersihan-app-235fb",
+    "storage_bucket": "cso-kebersihan-app-235fb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104567956388:android:e65de5601d512eb7f1d731",
+        "android_client_info": {
+          "package_name": "com.example.cso_kebersihan_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm19gtGU038OI6HPslEuHHhh1EwxrvWkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
